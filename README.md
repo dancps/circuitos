@@ -1,5 +1,8 @@
 # Circuitos Elétricos e Fotônica
-Repositório da disciplina de Circuitos Elétricos e Fotônica do 1o Quadrimestre de 2021.
+Repositório da disciplina de Circuitos Elétricos e Fotônica do 1o Quadrimestre de 2021. 
+
+O repositório conta também com uma biblioteca auxiliar contendo as funções mais importantes para a realização dos exercícios.
+
 ## Tabela de conteúdos
 * [Exercícios Semanais](#Exercícios-Semanais)
 * [Experimentos](#Experimentos)
